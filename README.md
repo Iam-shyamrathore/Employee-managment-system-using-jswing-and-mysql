@@ -15,3 +15,15 @@ View all employee details in a structured format, with the ability to search and
 # Technologies Used:
   - **Java Swing:** Used for building the graphical user interface (GUI) of the application.
   - **SQL:** Utilized for managing the employee database, handling all CRUD (Create, Read, Update, Delete) operations.
+# Screenshots:
+![ss dada](src/icons/0.png)
+
+![ss dada](images/1.png)
+
+![ss dada](images/2.png)
+
+![ss dada](images/3.png)
+
+![ss dada](images/4.png)
+
+![ss dada](images/5.png)
